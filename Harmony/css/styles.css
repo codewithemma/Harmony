@@ -1,0 +1,60 @@
+body {
+  /* background: rgb(220, 246, 250); */
+  background: linear-gradient(to right, rgb(147, 223, 253), rgb(193, 234, 253));
+}
+
+.text-blue {
+  color: #277eff;
+}
+.btn-dark-blue {
+  color: #fff;
+  background-color: rgb(10, 10, 37);
+}
+.btn-light-blue {
+  background: linear-gradient(to right, #fff, rgb(178, 241, 252));
+}
+.text-dark-blue {
+  color: rgb(10, 10, 37);
+}
+.bg-dark-blue {
+  background-color: rgb(10, 10, 37);
+}
+.line {
+  line-height: 55px;
+}
+.bg {
+  background-color: #277eff;
+}
+#about .card-b {
+  border-radius: 20px 75px 20px 20px;
+}
+.card {
+  border-radius: 20px;
+}
+.icon-holder {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  background-color: white;
+}
+.icon {
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.icon-1 {
+  margin-left: 10px;
+  margin-top: 15px;
+}
+.row .form .input-group input {
+  border-radius: 50px;
+}
+.bd {
+  border-radius: 0 50px 50px 0;
+}
+.cards {
+  position: relative;
+  top: 100px;
+}
+.long {
+  height: 300px;
+}
